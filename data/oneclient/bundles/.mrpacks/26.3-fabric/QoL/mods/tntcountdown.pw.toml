@@ -1,0 +1,17 @@
+id = "pQFm0mAJ"
+enabled = true
+hidden = false
+name = "TNT Countdown"
+filename = "countdown-2.1.0+mc26.3.jar"
+side = "client"
+type = "normal"
+
+[download]
+url = "https://cdn.modrinth.com/data/pQFm0mAJ/versions/gsxabgD4/countdown-2.1.0%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "e9d57c00c90ec129ab4c656fb3a67e89823f0d1f01050d54d5d4ea9b90029d275e3395affe159b4a249e33f9b5537daef497c375d495436947ca22f059701807"
+
+[update]
+[update.modrinth]
+mod-id = "pQFm0mAJ"
+version = "gsxabgD4"
