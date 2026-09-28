@@ -65,6 +65,11 @@ hash = "a0c243a0927a4f6d9fccfea2e318c499681f0937d51fe13977fa80c47a28331b"
 metafile = true
 
 [[files]]
+file = "mods/custom-block-highlight.pw.toml"
+hash = "48f7f530058de206025d91021b710ae36a4575aa74308f81184d8c1c784a899c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f06441ec5b6cd9252b9d2a7542d32744f3d64761b6739f8b2fbb6ba863bdf9b7"
 metafile = true
@@ -162,11 +167,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "77d40ef10f64dacd727721ca233567a829084254afdb636b7bfde0c59fb945cd"
-metafile = true
-
-[[files]]
-file = "mods/simple-block-overlay.pw.toml"
-hash = "ba24ce26b8619dd232d4aea16ff9b364d1be35ac21ec8e9c9fa35768a27312da"
 metafile = true
 
 [[files]]
