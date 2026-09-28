@@ -4,6 +4,7 @@ hidden = false
 name = "ChatTweaks"
 filename = "chattweaks-1.2.1+1.21.1.jar"
 side = "client"
+type = "normal"
 
 [download]
 url = "https://cdn.modrinth.com/data/8LNT47ZH/versions/8PQ91mFd/chattweaks-1.2.1%2B1.21.1.jar"

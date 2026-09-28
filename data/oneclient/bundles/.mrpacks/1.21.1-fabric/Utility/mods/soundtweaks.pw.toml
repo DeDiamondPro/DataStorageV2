@@ -4,6 +4,7 @@ hidden = false
 name = "SoundTweaks"
 filename = "soundtweaks-1.0.1+1.21.1.jar"
 side = "client"
+type = "advanced"
 
 [download]
 url = "https://cdn.modrinth.com/data/7hJZhArg/versions/TGDXvfh8/soundtweaks-1.0.1%2B1.21.1.jar"

@@ -4,6 +4,7 @@ hidden = false
 name = "Debugify"
 filename = "debugify-26.2.0.1.jar"
 side = "both"
+type = "advanced"
 
 [download]
 url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/p9lCmVmH/debugify-26.2.0.1.jar"

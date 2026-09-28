@@ -4,6 +4,7 @@ hidden = false
 name = "Poly+"
 filename = "polyplus-1.2.34+1.21.1.jar"
 side = "both"
+type = "normal"
 
 [download]
 url = "https://cdn.modrinth.com/data/Iw9mZi4a/versions/p62r3JoH/polyplus-1.2.34%2B1.21.1.jar"
