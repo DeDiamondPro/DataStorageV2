@@ -16,6 +16,11 @@ hash = "088047df32dcce3397a16d39c9837132f5e4bb768bb243fe419921d19f25f41a"
 metafile = true
 
 [[files]]
+file = "mods/better-narrator-error.pw.toml"
+hash = "103524c2dc102a8fd61cd3407e8e1b267ec23ae5626a52824882c8fa1c84792d"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "9d9febd38baa795e52b0648ac669850cfe7fecc5e0393b8854c927dfda87873b"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "964e40fb8ccd0147a8742e04ab182e78729db3e437d835f0e6fbcd535f9a8bdb"
+metafile = true
+
+[[files]]
+file = "mods/smartsearch.pw.toml"
+hash = "cb6dbc8078eb3a7ef3a594c6dcd44d64394824c84ba2b0d6a372cd1ff0d1eb52"
 metafile = true
 
 [[files]]

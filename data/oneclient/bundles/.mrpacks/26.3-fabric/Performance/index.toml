@@ -36,6 +36,11 @@ hash = "9d9628c351223ecc516f7f9fdad90f597db2c90e1875f02e1a515e161ae8682c"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "59df45d0a34d112269bc4795b0be474447ba8d48acd8d2ad292b6b7eb5a75c6e"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "3e7bef23fcee7e4c6bac3c5d13d5786c0f19397e4a18639f6cea022fe7752817"
 metafile = true

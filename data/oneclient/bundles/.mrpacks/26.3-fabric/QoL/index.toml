@@ -20,6 +20,11 @@ hash = "f6fd8b427a818db1ec3573828886acc5b6bd75be8a00ecbbbb16b19b4854d953"
 metafile = true
 
 [[files]]
+file = "mods/better-selection.pw.toml"
+hash = "4636fd585a958903ee1bbc1cd16d059ff597a3ea56deddaa7ade4dcd503f6fbf"
+metafile = true
+
+[[files]]
 file = "mods/black-bar-concealer.pw.toml"
 hash = "e22f70d17f42d1c6b06977b9075dfd2442d5620d013165f18d49087fe3d43d52"
 metafile = true
