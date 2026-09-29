@@ -61,11 +61,6 @@ hash = "58cf9237604fd9f60f292bf7b9ecfb998676cc26a26367045ab49e063f7097d9"
 metafile = true
 
 [[files]]
-file = "mods/custom-block-highlight.pw.toml"
-hash = "c51031562f21235017c64d21d8a4437a421d94f68a47eda977aa6d7ceefebdfd"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "092e288ce82f4a6de8893937384681022adcca2e5590a96b8b18c72424ad1710"
 metafile = true
