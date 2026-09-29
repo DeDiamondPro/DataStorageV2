@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/fovchanger.pw.toml"
-hash = "05e805134b9a6a6a242cf65697820ea2b7876ab0ce81b4faf7e14f72678a8e80"
+hash = "b5c6671dc6dbd9a0b01b095952f9f1a27d1543274a6543a6e8c748e884845d05"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyplus.pw.toml"
-hash = "d1885a96b066ace877d146723c2b8a4ceb3f8aa6bcb0e922a03cd4bee0493947"
+hash = "10c12a43bfc6ca585552ed3125fed0ab821e8703530dceb954c0ca3ba4198fc1"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/tntcountdown.pw.toml"
-hash = "fc7023d64d2fd00cfe3a1e55bf96b87aed75674fa5683aa9438d90d975ecff7b"
+hash = "4da856bd002fe75468c17d7d375e05a5d6f9ee6980b8a77609cefdb0148d4624"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/vignette-tweaks.pw.toml"
-hash = "57c382431605d249ea3a9cb1b7861edd65648b019ee37917e76dd13f10d7dce8"
+hash = "51f96e4da4458746294d70e31abc43522aad188b913dd5a7680a52b8e0a0351a"
 metafile = true
 
 [[files]]

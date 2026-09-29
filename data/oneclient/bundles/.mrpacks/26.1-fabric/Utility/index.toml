@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "36df47f2bae59532bf29a7a4eee76aab358d02e3279220ec6ada547e2203d4d7"
+hash = "9c0827264c29f6a4fbc84bb6e690580309a8dbd8481f1fb403415b6885f08b88"
 metafile = true
 
 [[files]]

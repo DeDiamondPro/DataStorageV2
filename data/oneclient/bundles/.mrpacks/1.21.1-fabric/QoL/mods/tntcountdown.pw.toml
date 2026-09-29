@@ -2,16 +2,16 @@ id = "pQFm0mAJ"
 enabled = true
 hidden = false
 name = "TNT Countdown"
-filename = "countdown-2.1.0-beta.1+mc1.21.1.jar"
+filename = "countdown-2.1.0+mc1.21.1.jar"
 side = "client"
 type = "normal"
 
 [download]
-url = "https://cdn.modrinth.com/data/pQFm0mAJ/versions/slcSz8oF/countdown-2.1.0-beta.1%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/pQFm0mAJ/versions/Iiy0jjf9/countdown-2.1.0%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "a99510984d26fb7e81df3aee46b1a533dde2aef00fce33d233cd20c2816447aeb62bcb768311c209f4f8af4938bb2e4bcb38ba869030490df9981670d09aed90"
+hash = "4d6ffb0c261e9cb3ee3a3e6f0cff24e0cd053bcba11863aadb659d0c95869016e853213790b1e374462873f98dd31d9d6b2e67a0c1b794211b6c109525678047"
 
 [update]
 [update.modrinth]
 mod-id = "pQFm0mAJ"
-version = "slcSz8oF"
+version = "Iiy0jjf9"

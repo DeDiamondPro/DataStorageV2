@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/crashpatch.pw.toml"
-hash = "f1d30065924394d07deacf566333227d45b7bb103a759fc6aa7158991094476c"
+hash = "58cf9237604fd9f60f292bf7b9ecfb998676cc26a26367045ab49e063f7097d9"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "5842b4307e9b12a19e1d1cf7ca1b59730682cc4513f62f619458af5322a6ebc3"
+hash = "b56f77894dfb56a2b0895f8d003903e77b102f3e6f96e0b171a3f42dde828c73"
 metafile = true
 
 [[files]]
