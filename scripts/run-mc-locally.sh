@@ -65,15 +65,14 @@ unzip -q "$MRPACK" -d "$WORK_DIR/.mrpack"
 INDEX="$WORK_DIR/.mrpack/modrinth.index.json"
 [ -f "$INDEX" ] || fail "no modrinth.index.json in $MRPACK"
 
-read -r MC_VERSION LOADER_VERSION <<EOF
-$(node -e '
+DEPS="$(node -e '
   const d = require(process.argv[1]);
   const mc = d.dependencies["minecraft"];
   const loader = d.dependencies["fabric-loader"];
   if (!mc || !loader) { console.error("pack is not fabric: " + JSON.stringify(d.dependencies)); process.exit(1); }
   console.log(mc, loader);
-' "$INDEX")
-EOF
+' "$INDEX")" || fail "could not read dependencies from $INDEX"
+read -r MC_VERSION LOADER_VERSION <<< "$DEPS"
 
 echo "== $PACK_ID :: Minecraft $MC_VERSION, fabric-loader $LOADER_VERSION"
 
@@ -88,7 +87,7 @@ node -e '
 ' "$INDEX" > "$WORK_DIR/curl.conf"
 
 echo "== downloading $(($(wc -l < "$WORK_DIR/curl.conf") / 2)) files"
-( cd "$WORK_DIR" && curl -sSfL --create-dirs --parallel --parallel-max 8 -K curl.conf )
+( cd "$WORK_DIR" && curl -sSfL --retry 3 --retry-all-errors --create-dirs --parallel --parallel-max 8 -K curl.conf )
 
 for dir in overrides client-overrides; do
   [ -d "$WORK_DIR/.mrpack/$dir" ] && cp -R "$WORK_DIR/.mrpack/$dir/." "$WORK_DIR/"
@@ -100,25 +99,40 @@ pauseOnLostFocus:false
 fullscreen:false
 EOF
 
-read -r SERVER_URL JAVA_MAJOR <<EOF
-$(node --input-type=module -e '
-  const mc = process.argv[1];
-  const manifest = await (await fetch("https://launchermeta.mojang.com/mc/game/version_manifest_v2.json")).json();
-  const entry = manifest.versions.find((v) => v.id === mc);
-  if (!entry) { console.error("no such Minecraft version in the manifest: " + mc); process.exit(1); }
-  const meta = await (await fetch(entry.url)).json();
+MANIFEST="$WORK_DIR/version_manifest_v2.json"
+curl -sSfL --retry 3 --retry-all-errors --connect-timeout 20 \
+  -o "$MANIFEST" https://launchermeta.mojang.com/mc/game/version_manifest_v2.json ||
+  fail "could not fetch the Mojang version manifest"
+
+VERSION_URL="$(node -e '
+  const manifest = require(process.argv[1]);
+  const entry = manifest.versions.find((v) => v.id === process.argv[2]);
+  if (!entry) { console.error("no such Minecraft version in the manifest: " + process.argv[2]); process.exit(1); }
+  console.log(entry.url);
+' "$MANIFEST" "$MC_VERSION")" || fail "no manifest entry for Minecraft $MC_VERSION"
+
+curl -sSfL --retry 3 --retry-all-errors --connect-timeout 20 \
+  -o "$WORK_DIR/version.json" "$VERSION_URL" ||
+  fail "could not fetch the version metadata for Minecraft $MC_VERSION"
+
+META="$(node -e '
+  const meta = require(process.argv[1]);
   console.log(meta.downloads.server.url, meta.javaVersion.majorVersion);
-' "$MC_VERSION")
-EOF
+' "$WORK_DIR/version.json")" || fail "no server download in the metadata for Minecraft $MC_VERSION"
+read -r SERVER_URL JAVA_MAJOR <<< "$META"
 
 JAVA_HOME_VAR="JAVA_HOME_${JAVA_MAJOR}_X64"
 JAVA_BIN="${!JAVA_HOME_VAR:-}/bin/java"
 [ -x "$JAVA_BIN" ] || JAVA_BIN="java"
 echo "== server needs Java $JAVA_MAJOR, using $JAVA_BIN"
 
+JAVA_HAVE="$("$JAVA_BIN" -version 2>&1 | sed -n '1s/.*version "\([0-9]*\).*/\1/p')"
+[ -n "$JAVA_HAVE" ] && [ "$JAVA_HAVE" -ge "$JAVA_MAJOR" ] ||
+  fail "$JAVA_BIN is Java ${JAVA_HAVE:-unknown}, but Minecraft $MC_VERSION needs Java $JAVA_MAJOR (set $JAVA_HOME_VAR)"
+
 SERVER_JAR="$SHARED_DIR/server-$MC_VERSION.jar"
 if [ ! -f "$SERVER_JAR" ]; then
-  curl -sSfL -o "$SERVER_JAR.tmp" "$SERVER_URL" && mv "$SERVER_JAR.tmp" "$SERVER_JAR"
+  curl -sSfL --retry 3 --retry-all-errors -o "$SERVER_JAR.tmp" "$SERVER_URL" && mv "$SERVER_JAR.tmp" "$SERVER_JAR"
 fi
 
 SRV="$WORK_DIR/server"
