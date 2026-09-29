@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ebd1eab6ad88a7cc74585a0bd6678cdb7aa809c10d38593f4e991c6050a967e3"
+hash = "058f192ab2df86d7925db9b7649713db3a868560a27db669e250292a6bc38ca2"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "d536f97dacb7de3fc6ea51835fe9c928140f1bbef4963dd12464a3349e438bc2"
+hash = "b37fe1a249b2e01472f9f8cf42c5a767154b017ff557b7543987f746bfbb39af"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3e792aab57056077297eacb89a69f5313d59bcef3c8b15ab74eae7e04609d453"
+hash = "3f7123cbd8e31f3a606862c217492ca6d6a8b11b18b44d8cb2b12132adc7aeb2"
 metafile = true
 
 [[files]]
