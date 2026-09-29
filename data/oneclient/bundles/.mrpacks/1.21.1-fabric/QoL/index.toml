@@ -140,6 +140,11 @@ hash = "1ac84c7adebac27791eb14b6930ede3b85d48923ce893e291e5c1776c704e7a9"
 metafile = true
 
 [[files]]
+file = "mods/freelook-oneconfig.pw.toml"
+hash = "cc7eaeb274260bc026ad11e46490e4e300706882294b1dd009dba73a39867790"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk-v2.pw.toml"
 hash = "c94c136b635a6b890cec69842097704844f7dc779bf05177319ef1a28a547ede"
 metafile = true
@@ -276,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyplus.pw.toml"
-hash = "14dcae5718b9bd3393fda8a0852bbe222e6a793655089c5b775b814c79af1410"
+hash = "5ab2980ec38460ebbb9a767d9188cb6fe4b7b65ab142d72401f3b667ed712064"
 metafile = true
 
 [[files]]

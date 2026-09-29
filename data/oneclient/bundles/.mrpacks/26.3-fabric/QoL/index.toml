@@ -140,6 +140,11 @@ hash = "8e7947711d8e2734344a51c2ce0c2165473c11b4a3cde4437c76d72c1c08be5d"
 metafile = true
 
 [[files]]
+file = "mods/freelook-oneconfig.pw.toml"
+hash = "a2fe88ac5075f89648e22fbc62920a9e8391e958b374cf411957d58f07e6f577"
+metafile = true
+
+[[files]]
 file = "mods/itemphysic-lite.pw.toml"
 hash = "3ff83ef8f13a89648a1f1b268c25de72d0649e86e534600f248c073abb6f8b0e"
 metafile = true
@@ -226,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyplus.pw.toml"
-hash = "cdf54b9528f85c86c79e029ac0634ee5d90b0341501ff20461537a59089891df"
+hash = "26f6e93c2b380ad74814248cff444354062f48aedb519e1c1474bdb51acc204f"
 metafile = true
 
 [[files]]
