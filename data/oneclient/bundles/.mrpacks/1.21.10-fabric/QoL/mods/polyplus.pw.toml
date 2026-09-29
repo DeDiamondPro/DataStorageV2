@@ -2,15 +2,15 @@ id = "Iw9mZi4a"
 enabled = true
 hidden = false
 name = "Poly+"
-filename = "polyplus-1.2.39+1.21.10.jar"
+filename = "polyplus-1.2.40+1.21.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Iw9mZi4a/versions/DxlBAMtX/polyplus-1.2.39%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/Iw9mZi4a/versions/ePtMJAbd/polyplus-1.2.40%2B1.21.10.jar"
 hash-format = "sha512"
-hash = "2917f402bb3180f9fd8a585213aeb01af0fd9e4cee864855d6c74be95b26b9a0de4ae76f14d9f69bf8cc3b9f2f6e39a4ee295cf691ed68a7acc41cfef49fb297"
+hash = "222dbd8dfbaf429fd03cecde452f383fa57bf20c44f0343de61d1cde0b941e35e17152d311e75800f5faa1b7391b152d4f24020478b392cc0dde1c67ac78b4b4"
 
 [update]
 [update.modrinth]
 mod-id = "Iw9mZi4a"
-version = "DxlBAMtX"
+version = "ePtMJAbd"
