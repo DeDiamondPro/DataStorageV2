@@ -5,8 +5,8 @@ file = "config/fabric_loader_dependencies.json"
 hash = "aba164881d7a965d612c259b8f69f7dd7440e1b1422b830f792415c628743312"
 
 [[files]]
-file = "mods/animatium.pw.toml"
-hash = "402d84e393f46bf3030d165a7d6267176501f5a035aff5fc497a47a7ac2c1b1a"
+file = "mods/animations.pw.toml"
+hash = "179b0d2248ef55dee8bf4292915705d0d82c8baeaf4242cb7c2dff6cd2a050e6"
 metafile = true
 
 [[files]]
