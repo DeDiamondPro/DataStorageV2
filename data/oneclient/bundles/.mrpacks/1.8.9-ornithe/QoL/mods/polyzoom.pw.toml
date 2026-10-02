@@ -1,23 +1,16 @@
-id = "polyzoom"
+id = "KRkUREPv"
 enabled = true
 hidden = false
 name = "PolyZoom"
-filename = "PolyZoom-1.0.0.jar"
+filename = "PolyZoom-1.0.1.jar"
 side = "client"
-type = "normal"
-
-[overrides]
-name = "PolyZoom"
-description = "Adds a configurable zoom keybind with smooth transitions."
-authors = ["Polyfrost"]
 
 [download]
-url = "https://github.com/Polyfrost/PolyZoom/releases/download/v1.0.0/PolyZoom-1.0.0.jar"
-hash-format = "sha256"
-hash = "6d404ab1a3ed1db7c48f41c51c20adbbbe71f0eb391c95dafec1bac798de0cc7"
+url = "https://cdn.modrinth.com/data/KRkUREPv/versions/CecT6haB/PolyZoom-1.0.1.jar"
+hash-format = "sha512"
+hash = "9c56102d67e42010f55ee1172eef32a5eb267efb23130c8b1b57e92c9ca6f8f6e9c936a02ce619fd7fa859470beda83576f9dc599194104094ec54acc52db67a"
 
 [update]
-[update.github]
-branch = "main"
-slug = "Polyfrost/PolyZoom"
-tag = "v1.0.0"
+[update.modrinth]
+mod-id = "KRkUREPv"
+version = "CecT6haB"

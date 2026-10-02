@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyzoom.pw.toml"
-hash = "452da93a4a0b67bffb9081d5b85bcd7021a2d4815c993c461004c623c6c58c0d"
+hash = "79cc15848e2493907fd314ef7ad82a58db8b538470b3a4678324cf12d2434563"
 metafile = true
 
 [[files]]
