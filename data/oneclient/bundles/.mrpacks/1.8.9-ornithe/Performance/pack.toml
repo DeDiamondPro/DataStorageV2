@@ -7,6 +7,7 @@ enabled = true
 category = "Performance"
 id = "performance-1.8.9-ornithe"
 update-url = "oneclient/generated/performance-1.8.9-ornithe.mrpack"
+java-version-override = 25
 
 [index]
 file = "index.toml"
