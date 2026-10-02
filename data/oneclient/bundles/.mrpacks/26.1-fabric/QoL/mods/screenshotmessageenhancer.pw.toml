@@ -1,0 +1,17 @@
+id = "UpkHNO8R"
+enabled = true
+hidden = false
+name = "Screenshot Message Enhancer"
+filename = "ScreenshotMessageEnhancer-2.5.0-26.1+_fabric.jar"
+side = "client"
+type = "advanced"
+
+[download]
+url = "https://cdn.modrinth.com/data/UpkHNO8R/versions/586ZiPMe/ScreenshotMessageEnhancer-2.5.0-26.1%2B_fabric.jar"
+hash-format = "sha512"
+hash = "57e19f8e6b0218c571047e87faf79d7ad0e70621d860457b612305620bbb1cce9dae6f22f2ab710f0b36ceb9072fbb421afe350c401406996a11d70b5ccc7f3d"
+
+[update]
+[update.modrinth]
+mod-id = "UpkHNO8R"
+version = "586ZiPMe"

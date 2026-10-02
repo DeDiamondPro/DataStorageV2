@@ -305,6 +305,11 @@ hash = "a0d4150c36f0baf0e981b56648506460edfdb662f86556abd1e58ebadacc31c8"
 metafile = true
 
 [[files]]
+file = "mods/screenshotmessageenhancer.pw.toml"
+hash = "b0f542dedc4027abb7c1c3a39dcf06fc6e55227618358fa38f4af0e99b0bb291"
+metafile = true
+
+[[files]]
 file = "mods/scrolltweaks.pw.toml"
 hash = "155844eb53ed08ddbeed63faf50a8b59c0f7971913a6160a1345ddbedc2ab9f4"
 metafile = true
