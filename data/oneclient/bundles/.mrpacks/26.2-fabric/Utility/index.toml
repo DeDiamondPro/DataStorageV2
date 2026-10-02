@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/hitbox.pw.toml"
-hash = "06c6243f24eaf7f2114d9d6a7e800c91c7221a9870e082d28c620abf0b2c5bb2"
+hash = "c13945b2e10a927a918e893f1b16dfa76614ac7a0bbe343fabec069a019e069d"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "6e28a85da946c4fe32459e80995facf702e95a6307229e8793c675eec7e54aef"
+hash = "23241a21916420047a43c137b76c90fa1c61e2fcca102def1127e5bb89d042b8"
 metafile = true
 
 [[files]]
