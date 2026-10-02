@@ -31,6 +31,11 @@ hash = "873e39381b565bbb654c5bcf1b8ff637df9a1c9542c4448af302125dfc194d10"
 metafile = true
 
 [[files]]
+file = "mods/fullbright.pw.toml"
+hash = "a00ae192adb929db43c60fb69eac2c13a2063e0ebf21858b2b6fb9dbf9507f10"
+metafile = true
+
+[[files]]
 file = "mods/hitbox.pw.toml"
 hash = "abd62a9a0446a74af2d9e651811b91a8ee15e790dc82ed296d9a2b337fa0153f"
 metafile = true

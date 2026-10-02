@@ -29,3 +29,8 @@ metafile = true
 file = "mods/pylon.pw.toml"
 hash = "3fef8310066eac7c1a8a6eee74a70a3716efc8aa0d0fc431e9a6719b90362a16"
 metafile = true
+
+[[files]]
+file = "mods/vanillahud.pw.toml"
+hash = "c9a114f1c085dafd77468344177f76a5d0d0c781f89c76f166318e776c0b17f9"
+metafile = true
