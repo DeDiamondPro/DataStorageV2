@@ -86,11 +86,6 @@ hash = "bbba673cf4b7d54131585ead34133ca41059374816fb2204061f50c9f4510a83"
 metafile = true
 
 [[files]]
-file = "mods/hyinfo.pw.toml"
-hash = "1476e2d0f23b4c04d86dd61d6d93abcb46d0b716d43ee9d27f05f0ea53300e4b"
-metafile = true
-
-[[files]]
 file = "mods/hylobby.pw.toml"
 hash = "4da92fd166d2ce254c7dc8a877a539e20dc89be4445af2c41358cb271ae1f98c"
 metafile = true
