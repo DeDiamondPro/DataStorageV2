@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/o-itemphysiclite.pw.toml"
-hash = "ff14f369e146d96fd7d2d5bc77ad6aea37cc9f6fa4c9fcb3737ea24e63b6a205"
+hash = "fc782d36e5768a02f05938ea2cc756d8ba290cec665cf9d4f15db69827034ff1"
 metafile = true
 
 [[files]]
