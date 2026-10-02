@@ -1,0 +1,16 @@
+id = "xT45UG5o"
+enabled = true
+hidden = false
+name = "PolyBlur"
+filename = "polyblur-2.2.2+1.8.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xT45UG5o/versions/Yvmv9Xt4/polyblur-2.2.2%2B1.8.9.jar"
+hash-format = "sha512"
+hash = "e1268aac3d0f7d416424a8a6e669f2f53aba3748741b225d4afaee2083a8e3bed1f6a1e95b8a0624b5de89fa443821bc3a9515eede5ea32f6e5f09cd51391929"
+
+[update]
+[update.modrinth]
+mod-id = "xT45UG5o"
+version = "Yvmv9Xt4"

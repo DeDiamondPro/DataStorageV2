@@ -1,0 +1,21 @@
+name = "OneClient 1.8.9 Ornithe [QoL]"
+author = "Polyfrost"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+poly-format = "1"
+enabled = true
+category = "QoL"
+id = "qol-1.8.9-ornithe"
+update-url = "oneclient/generated/qol-1.8.9-ornithe.mrpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ce26f6d17945b839a7a047a1f4d40a58ea9aae69073598cf76f864cebdcea0d2"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.8.9"
+
+[options]
+acceptable-game-versions = []

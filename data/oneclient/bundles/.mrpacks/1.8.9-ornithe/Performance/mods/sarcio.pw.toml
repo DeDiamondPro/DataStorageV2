@@ -1,0 +1,23 @@
+id = "sarcio"
+enabled = true
+hidden = false
+name = "Sarcio"
+filename = "Sarcio-1.0.1+56e40bf.jar"
+side = "client"
+type = "normal"
+
+[overrides]
+name = "Sarcio"
+authors = ["rdh", "Microcontrollers"]
+description = "Targeted memory optimizations and bugfixes for Minecraft 1.8.9"
+
+[download]
+url = "https://github.com/Polyfrost/Sarcio/releases/download/v1.0.1/Sarcio-1.0.1%2B56e40bf.jar"
+hash-format = "sha256"
+hash = "3d873b53222567e81ac26fe9805d83334d969e948159f02e635d4f02e723cdf8"
+
+[update]
+[update.github]
+branch = "main"
+slug = "Polyfrost/Sarcio"
+tag = "v1.0.1"
