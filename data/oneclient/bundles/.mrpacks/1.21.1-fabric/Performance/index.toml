@@ -6,11 +6,6 @@ hash = "78e408417db41c3644e9452183129e01dabb047cbc463f2f29d87cf570e3cd26"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "27ee5e1dda770c3cd370680a35efcd442d87a704c4ea36121c00e5d5c7333e53"
-metafile = true
-
-[[files]]
 file = "mods/better-mipmaps.pw.toml"
 hash = "a48ece669b8fd6d5ffcfc62ea162b7ef4d2ebde411f55f83867dcc0aafd9b8e3"
 metafile = true
