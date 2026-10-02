@@ -21,6 +21,11 @@ hash = "1b8ef37df23438635cb8ea614d93278e6c1f18a7df8de1f1cffd6263db7dcc3b"
 metafile = true
 
 [[files]]
+file = "mods/custom-block-highlight.pw.toml"
+hash = "d50c60285fff301e7b924e882beeb53b777189ade6fcf6417c984b1f21b74b3b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "873e39381b565bbb654c5bcf1b8ff637df9a1c9542c4448af302125dfc194d10"
 metafile = true
