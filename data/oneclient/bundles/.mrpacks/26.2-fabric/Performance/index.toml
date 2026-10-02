@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-compression.pw.toml"
-hash = "a3cb191c2f62692a2288d6a16cf1359eb3f83687a5042c81d9c72f1f65275a44"
+hash = "a50cbb3b05029948b3a07c06abd32c740b0661db30d5b4272a77bc1d42554b5f"
 metafile = true
 
 [[files]]
