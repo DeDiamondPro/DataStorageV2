@@ -2,16 +2,17 @@ id = "ranjG9Zq"
 enabled = true
 hidden = false
 name = "Mount Opacity"
-filename = "mountopacity-1.2.3+1.8.9-fabric-dev.jar"
+filename = "mountopacity-1.2.3+1.8.9-fabric.jar"
 side = "client"
 type = "normal"
 
-[download]
-url = "https://cdn.modrinth.com/data/ranjG9Zq/versions/ygUx2jgl/mountopacity-1.2.3%2B1.8.9-fabric-dev.jar"
-hash-format = "sha512"
-hash = "ae98e13a7d429ef754a16d9ce32822dd71ec6d039ce21027a402531527c5b542601189a3d5ab9a936116795ee72629acaf0ddff051ffda6d1807cc4c33cbadf2"
+[overrides]
+name = "Mount Opacity"
+description = "Allows setting custom opacity (transparency) for entities that you are riding, making it easier to see what's in front or below you!"
+authors = ["Microcontrollers"]
+icon = "https://cdn.modrinth.com/data/ranjG9Zq/eeece904b3a6bf203bd95f2ce8f699092c52d4d9_96.webp"
 
-[update]
-[update.modrinth]
-mod-id = "ranjG9Zq"
-version = "ygUx2jgl"
+[download]
+url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/mountopacity-1.2.3/mountopacity-1.2.3%2B1.8.9-fabric.jar"
+hash-format = "sha512"
+hash = "1a239ab0446e0ca75af256663d40f0a899aed29b03fc752f1eabf70a08b13fb42ef05711487aadd2f959d6af47e4fae47ffbf090882ae508d5318797f9e00352"

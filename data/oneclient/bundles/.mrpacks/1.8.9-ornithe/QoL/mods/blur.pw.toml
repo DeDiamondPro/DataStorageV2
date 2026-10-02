@@ -2,7 +2,7 @@ id = "Blur"
 enabled = true
 hidden = false
 name = "Blur"
-filename = "LegacyGuiBlur-6.3.3+mc1.8.9-fabric.jar"
+filename = "LegacyGuiBlur-6.3.4+mc1.8.9-fabric.jar"
 side = "client"
 type = "normal"
 
@@ -22,4 +22,4 @@ hash = "7fd1bfe4c5109c14b1ac6ae4875f07109d91c12726eb26ebeeaf16c54ce89c0f"
 branch = "ornithe-1.8.9"
 regex = "mc1\\.8\\.9-fabric\\.jar$"
 slug = "Polyfrost/Blur"
-tag = "legacy-gui-blur-6.3.3-mc1.8.9-fabric"
+tag = "legacy-gui-blur-6.3.4-mc1.8.9-fabric"

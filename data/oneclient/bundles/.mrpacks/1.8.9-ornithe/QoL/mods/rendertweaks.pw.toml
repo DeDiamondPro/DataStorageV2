@@ -2,16 +2,17 @@ id = "1je3wJFn"
 enabled = true
 hidden = false
 name = "Render Tweaks"
-filename = "rendertweaks-2.0.2+1.8.9-fabric-dev.jar"
+filename = "rendertweaks-2.0.2+1.8.9-fabric.jar"
 side = "client"
 type = "normal"
 
-[download]
-url = "https://cdn.modrinth.com/data/1je3wJFn/versions/tj02rY5s/rendertweaks-2.0.2%2B1.8.9-fabric-dev.jar"
-hash-format = "sha512"
-hash = "5ed547968d2e353028199d52746464ff780c65155a97378f3e1c5398d5c41ee5c82c8ad928b3e0402de984c43b087e0df0e2988240655f7907c84ef4503371bc"
+[overrides]
+name = "Render Tweaks"
+description = "Allows modifying the rendering of some in world things"
+authors = ["Microcontrollers"]
+icon = "https://cdn.modrinth.com/data/1je3wJFn/1e317638c9ff971d3fc4b04c1b9b184d0764ce1f_96.webp"
 
-[update]
-[update.modrinth]
-mod-id = "1je3wJFn"
-version = "tj02rY5s"
+[download]
+url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/rendertweaks-2.0.2/rendertweaks-2.0.2%2B1.8.9-fabric.jar"
+hash-format = "sha512"
+hash = "a8ce92540a095737bd39ad17bb772dc50679b3a12bc48cb97a1123caad84807994973e22697805f6f10934ae69020d3e7ee58c48507ab646b008fdd46b337204"

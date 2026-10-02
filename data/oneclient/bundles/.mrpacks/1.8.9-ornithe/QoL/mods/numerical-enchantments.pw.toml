@@ -2,16 +2,17 @@ id = "HeyHGg62"
 enabled = true
 hidden = false
 name = "Numerical Enchantments"
-filename = "numericalenchantments-1.0.2+1.8.9-fabric-dev.jar"
+filename = "numericalenchantments-1.0.2+1.8.9-fabric.jar"
 side = "client"
 type = "normal"
 
-[download]
-url = "https://cdn.modrinth.com/data/HeyHGg62/versions/mqo7hj3o/numericalenchantments-1.0.2%2B1.8.9-fabric-dev.jar"
-hash-format = "sha512"
-hash = "ac03c17b0a786ae944e89f195ccaf366ac293e70183b13b04ce642e637e31c24402b780be8f6a0c1c06cf9dde5f2eab447325f74d3be16ada3f1b3fba773d91d"
+[overrides]
+name = "Numerical Enchantments"
+description = "Converts roman numerals to arabic numbers."
+authors = ["Microcontrollers"]
+icon = "https://cdn.modrinth.com/data/HeyHGg62/60a4b88605f1b36c9cdd195c107b64c97a88e719.png"
 
-[update]
-[update.modrinth]
-mod-id = "HeyHGg62"
-version = "mqo7hj3o"
+[download]
+url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/numerical-enchantments-1.0.2/numericalenchantments-1.0.2%2B1.8.9-fabric.jar"
+hash-format = "sha512"
+hash = "330122e36766850835e4a9e5917b18f848f1cc797af687f3d13dfe7bbddfa74d805a7ca66822d545b41db41a8fd651c38298e9e86dc021b919ef4fb82b99cab5"
