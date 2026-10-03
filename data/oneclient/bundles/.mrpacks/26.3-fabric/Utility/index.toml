@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "3ed59d03b57be210b7e095259475fd30cb61f12c9ca53bba75ebe47d343acd5d"
+hash = "6c45f4da9f983cf8fbd1236dc1c76f1db745979a8735a14fc9cb368a81f20c84"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "01655b41533beedeebfaf8bf7aeb1c7a85f0478e6f86508cf21def1c12f00445"
+hash = "f30e545211e62f1fc3add33f196074ac72c6ab68da6cdd18aebb3138015e199a"
 metafile = true
 
 [[files]]
