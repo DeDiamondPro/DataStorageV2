@@ -4,6 +4,7 @@ hidden = true
 name = "Ornithe Standard Libraries"
 filename = "ornithe-standard-libraries-0.22.0.jar"
 side = "client"
+pin = true
 type = "advanced"
 
 [download]

@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "873e39381b565bbb654c5bcf1b8ff637df9a1c9542c4448af302125dfc194d10"
+hash = "b813ff51df485bee41ef82ee75fb54e59fd65603023daed46df34cb3bd4943dd"
 metafile = true
 
 [[files]]
@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/osl.pw.toml"
-hash = "f55f47afce015c7953310fc4840d0e5935bf25a72ff0424d9847dd194c3a5cff"
+hash = "0452b265cec777fb880048ceec77178925cf4923f9ec8e7fbb642c2a02e2cedc"
 metafile = true
 
 [[files]]
 file = "mods/pylon.pw.toml"
-hash = "3fef8310066eac7c1a8a6eee74a70a3716efc8aa0d0fc431e9a6719b90362a16"
+hash = "708ccf10d78851211b7ffef52df9748d455ff98e9838002efe9783fd1c2cb0bf"
 metafile = true
 
 [[files]]

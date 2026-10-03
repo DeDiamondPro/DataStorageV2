@@ -19,6 +19,7 @@ hash = "c0bf068479cb93d9c2cad2652b3eb4a5bc37f7bbec0856484f3bbaf35edeb479"
 
 [update]
 [update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "notdevcody/pylon"
 tag = "v0.1.8"
-branch = "main"
