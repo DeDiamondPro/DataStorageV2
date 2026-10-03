@@ -13,9 +13,9 @@ authors = ["Motschen", "amiralimollaei", "tterrag1098", "Pyrofab"]
 icon = "https://raw.githubusercontent.com/Polyfrost/Blur/ornithe-1.8.9/src/main/resources/assets/blur/icon.png"
 
 [download]
-url = "https://github.com/Polyfrost/Blur/releases/download/legacy-gui-blur-6.3.3-mc1.8.9-fabric/LegacyGuiBlur-6.3.3%2Bmc1.8.9-fabric.jar"
+url = "https://github.com/Polyfrost/Blur/releases/download/legacy-gui-blur-6.3.4-mc1.8.9-fabric/LegacyGuiBlur-6.3.4%2Bmc1.8.9-fabric.jar"
 hash-format = "sha256"
-hash = "7fd1bfe4c5109c14b1ac6ae4875f07109d91c12726eb26ebeeaf16c54ce89c0f"
+hash = "4bd3c09be707c1864f0eb724e9fa8e13beb90fc2a1616e99e933375110dc8721"
 
 [update]
 [update.github]
