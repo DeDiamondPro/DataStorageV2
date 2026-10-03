@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "3494d21fd50b6c991222b5ce7c532b8ec51a694d2f238e8cd65f98310362c197"
+hash = "b554294c62601f324f27104f41f6639a116bb4e61ab9aee42f160c2e3cbe325f"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillahud.pw.toml"
-hash = "2bb3cf60a0282b6dabccaff25c959e59296f5243751bf77302aabf158eb4888d"
+hash = "f25d7a353a8421c001a2fe635353eae6fff85de9290df15e2ce44fe94dcc7fa5"
 metafile = true
 
 [[files]]
