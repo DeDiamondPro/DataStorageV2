@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysicliteconfig.pw.toml"
-hash = "5a6f2b610a2571a5515b54da1809853902c358e0640b04878189badc9b540642"
+hash = "316508422403ac6bb6c521c5c459f3505e5981c34b6e5416ef6c4f88e59a43f0"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/rendertweaks.pw.toml"
-hash = "8036f860588b67176a569c44150dd005e33efd14ba51d304f2d61e4050570774"
+hash = "f1762a46c05a90a76332fd183b70fc4150d61c0c8f5820e3accec7232906605f"
 metafile = true
 
 [[files]]
