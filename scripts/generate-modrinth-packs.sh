@@ -8,7 +8,6 @@ OUTPUT_DIR="${1:-$SCRIPT_DIR/../data/oneclient/bundles/generated}"
 SKYBLOCK_CATEGORY="skyblock"
 
 IGNORED_VERSIONS=(
-  "26.1-fabric"
   "1.8.9-ornithe"
 )
 
