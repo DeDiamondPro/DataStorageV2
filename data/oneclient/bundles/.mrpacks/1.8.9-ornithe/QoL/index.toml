@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyplus.pw.toml"
-hash = "d6f3dc443d40a379bbfde241d0dd9a6a8f59c7af8d6c1c50ba8a5e57d2c99241"
+hash = "b1462e4dce2442a3f69f24305c8942c620299519d6f84334ca723670ff1df784"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/pylon.pw.toml"
-hash = "708ccf10d78851211b7ffef52df9748d455ff98e9838002efe9783fd1c2cb0bf"
+hash = "fecfa72d30498dc43542cb9560c2d373efd3cd2983f82e350ac0ea184ee7e20e"
 metafile = true
 
 [[files]]

@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/pylon.pw.toml"
-hash = "708ccf10d78851211b7ffef52df9748d455ff98e9838002efe9783fd1c2cb0bf"
+hash = "fecfa72d30498dc43542cb9560c2d373efd3cd2983f82e350ac0ea184ee7e20e"
 metafile = true
 
 [[files]]
