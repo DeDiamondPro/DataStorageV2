@@ -1,6 +1,11 @@
 {
     "version": 1,
     "overrides": {
+        "cubes-without-borders": {
+            "+breaks": {
+                "chloride": "*"
+            }
+        },
         "idontwannascrollagain": {
             "-depends": {
                 "minecraft": "IGNORED"

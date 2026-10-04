@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "7aa64d02f347ecf68f0f05bfedbfac91a079b1aba09ca751afb0c16d5e5711a2"
+hash = "1468aca3084ed3b9ced286e98577c55bdf69a0a651a2529002a8fbdb01aab1bc"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "2a11dd1c43496df8a21a056a210f49b07c64f898896b24be4235348b42e2c211"
+hash = "d713b8a5efc017141fea65a11d2eef4699b316989b2248fa7e340f2e2f870a59"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyplus.pw.toml"
-hash = "8c2ce6b998f875cf77c83e39ce1c7c9dcf2b49c7c130fda0c6d11b866e4ffe4b"
+hash = "cac85f5b4dd545fff32cea0551c055f39900bcf582edcde28219ed8fc93a6747"
 metafile = true
 
 [[files]]
