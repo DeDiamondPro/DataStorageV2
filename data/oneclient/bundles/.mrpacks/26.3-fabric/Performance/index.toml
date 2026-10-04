@@ -212,5 +212,5 @@ metafile = true
 
 [[files]]
 file = "mods/zmaterial-rule-compiler.pw.toml"
-hash = "a15b2f1a424d3d9c3273e3186a63299f54c735587ff1960d74c007edc366e201"
+hash = "2b6be7572152fa162d6c5fbf54ecd345e4f1bcb291d4db7ecc6bbcc48b99344b"
 metafile = true

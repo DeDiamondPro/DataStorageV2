@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/animations.pw.toml"
-hash = "4372eea16e8ca15d19bf2c60fc890e0ad062bdaa96d212714ba51cec7592613f"
+hash = "d134c92b4b523270f5b969d028ce8a83bb00b40cedeb7acb5aead86c4ff77b29"
 metafile = true
 
 [[files]]
 file = "mods/better-screens.pw.toml"
-hash = "4a0b2b4bbadf03e3642615077aca89aace51005a8ad0722816ef89acd8a0ae57"
+hash = "e47db48e51d0637b5073761e2e5e6823e1a50479cf69b4f05785dedf06f8deb7"
 metafile = true
 
 [[files]]

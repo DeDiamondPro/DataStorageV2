@@ -111,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "aba4e42d4ffe99e8d10399c49b06ca0cc419ce417d1dafb027c9dfa3b92b8134"
+hash = "df91c153bc15c097f4cc0c0c39ac1511d5b3d5263413144c66dfa09236b3e6b6"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "47a2d66fe1fa32c0c3c54a5bcc1440c76750dc6d5d52aac9cd84ad671c7c2cf1"
+hash = "1ea4fd40450d547354eed6b3a1a9d795a682d8f47e0327093a231d80e1163a9c"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/mountopacity.pw.toml"
-hash = "fe1438ac4001e5b82f48398498b870f1cc5edff65e4f5e2cc7f1653b952ffe41"
+hash = "12f47b746ace384cea4157e49de71524cab9844e8ea205b379e43eff9a0f4d52"
 metafile = true
 
 [[files]]
