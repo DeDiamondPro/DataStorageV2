@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "fd51030228d5b8c0757557442aa0e6184407e76a3ffb98124a736275f63ec7ed"
+hash = "1801fdf6e270aae9752fbce66fe5fb28a2620b5b66f04d32a7be808052e60595"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "b554294c62601f324f27104f41f6639a116bb4e61ab9aee42f160c2e3cbe325f"
+hash = "debbda03cf6b4c8b16ffaff9ed2b104ac5e4870e1d27249512bd01bab1918e17"
 metafile = true
 
 [[files]]

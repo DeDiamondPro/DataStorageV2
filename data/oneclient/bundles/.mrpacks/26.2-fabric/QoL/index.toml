@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-screens.pw.toml"
-hash = "43f9efaf4f1594d03c646405c8f3687c16192c4e094852cb99bf855b095ded6f"
+hash = "4f11b8bd2f4d37d6b6a29353d8006c6d1aa876a361b8a3947750952091c11be3"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "b554294c62601f324f27104f41f6639a116bb4e61ab9aee42f160c2e3cbe325f"
+hash = "debbda03cf6b4c8b16ffaff9ed2b104ac5e4870e1d27249512bd01bab1918e17"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyplus.pw.toml"
-hash = "2e16fdda7d29bea87732643f35914a0dee1b62f7e5ac394314c88fd495457422"
+hash = "de70b2c4a86d012d16166512022e7c32468a22ec1fdd107d2d33771ff2769847"
 metafile = true
 
 [[files]]

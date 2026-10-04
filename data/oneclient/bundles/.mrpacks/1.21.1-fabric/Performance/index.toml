@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "9743b48d97fa4ca2926732c1034522b7cf9fabb8f745da34400e270d5531a65f"
+hash = "2b21920ebb44e371c2e56e5ea88c93feb2ca4013833dc9a8af7550939a0c4f22"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "d713b8a5efc017141fea65a11d2eef4699b316989b2248fa7e340f2e2f870a59"
+hash = "b317ff69e0c799cd8f4d2112ba5e128a42401184600f935b1035543bd2058820"
 metafile = true
 
 [[files]]
