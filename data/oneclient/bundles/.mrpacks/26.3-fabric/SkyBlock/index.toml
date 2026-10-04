@@ -30,6 +30,11 @@ hash = "c1677b7829da3eb19ca8a5b68eb9ebd8c060271e31a0fc75e4bbd28518213776"
 metafile = true
 
 [[files]]
+file = "mods/hypixel-mod-api.pw.toml"
+hash = "f08323ae85654864db79015aaf2f0843d4346279ea742449add846efb3fb75de"
+metafile = true
+
+[[files]]
 file = "mods/legacyskyblock.pw.toml"
 hash = "2809f447569b347345e10b4dcbc1e7b3d56a6f6b71607c2a7fed7ce302b9198f"
 metafile = true
