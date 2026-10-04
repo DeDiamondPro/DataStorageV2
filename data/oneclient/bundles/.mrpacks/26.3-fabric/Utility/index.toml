@@ -26,6 +26,11 @@ hash = "2ab13d37e1f91afc6587cadbd23c5f7415a10a99d789ea37b7753dcde397eebb"
 metafile = true
 
 [[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "1e22b05c305ebd2676ce15a109f15392c967ce56a2ca326c72f7d5ae2b8962be"
+metafile = true
+
+[[files]]
 file = "mods/betternightvision.pw.toml"
 hash = "640023e8bf00309747bf104e05a0b6c57de67cb133ecde6c8365f667c92a31dd"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "60e0b7d36bcdcde09c23ee95b9a6b314877d9176b378ab065837c894cf05158f"
+metafile = true
+
+[[files]]
+file = "mods/crashpatch.pw.toml"
+hash = "7a27a83b3b11010b84da96be166e2d8b25c3dfec405464cf5249267fe5810fc0"
 metafile = true
 
 [[files]]
@@ -98,6 +108,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "eceeaa6eb95097fb8fb26fbb5a1d68ee7fcd75d630051dd12e23477dfcb0caec"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "45a4b86f6970e47ff4d2592befc80e7eedf3c0bbe396d31c94f00887a52f9bab"
+metafile = true
+
+[[files]]
+file = "mods/noxesium.pw.toml"
+hash = "20767425ed606d6b10bcf711412d33bec2ef2f70eb624766639fa6ee44b80946"
 metafile = true
 
 [[files]]

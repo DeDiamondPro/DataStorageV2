@@ -91,8 +91,18 @@ hash = "dcbeea55779b51da355ee5b950994158c0f8ccfe43686cfa361582e7f1ade515"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "bf8c20187135a9d7b1695303a0271616b2b7da39ab9d3091366220d2f511be0a"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "58191ac1ed7678da6edaa18e61f5f54f350a1360e654be7d3e0dbe3d8451a4c1"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "2b21920ebb44e371c2e56e5ea88c93feb2ca4013833dc9a8af7550939a0c4f22"
 metafile = true
 
 [[files]]
@@ -103,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "eceeaa6eb95097fb8fb26fbb5a1d68ee7fcd75d630051dd12e23477dfcb0caec"
+metafile = true
+
+[[files]]
+file = "mods/noxesium.pw.toml"
+hash = "20767425ed606d6b10bcf711412d33bec2ef2f70eb624766639fa6ee44b80946"
 metafile = true
 
 [[files]]

@@ -140,6 +140,11 @@ hash = "8e7947711d8e2734344a51c2ce0c2165473c11b4a3cde4437c76d72c1c08be5d"
 metafile = true
 
 [[files]]
+file = "mods/fovchanger.pw.toml"
+hash = "a1f01107afa09072c93796028729123c82dc8ae46bf4c127d511f9b79fe5a61a"
+metafile = true
+
+[[files]]
 file = "mods/freelook-oneconfig.pw.toml"
 hash = "a2fe88ac5075f89648e22fbc62920a9e8391e958b374cf411957d58f07e6f577"
 metafile = true
@@ -182,6 +187,16 @@ metafile = true
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "353f08f1daeeee48fd5ca3a7990e5c931ec27aa20e34ad1f61cf76bc9c44b23c"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ad7555cc11d27efb0e229a714f4304248162c08ebd625119c2f42a39ffaf15f7"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "e06f4cad55058b9f717d3ee8e1e2f75d8486ea86d7a39c7a6ab040f9dddfa48a"
 metafile = true
 
 [[files]]
@@ -315,6 +330,11 @@ hash = "c8583dfbb1be1ae71db37139d017910bf1f4d059a86a0c7e00a9fcc1149bbde6"
 metafile = true
 
 [[files]]
+file = "mods/tooltip-scroll.pw.toml"
+hash = "ae45a783f45f8bd6a8170fdcfed0878ffbef1f6a4bbfbcca8cbee2594c7b1b61"
+metafile = true
+
+[[files]]
 file = "mods/ukulib.pw.toml"
 hash = "ea464e1969988d2447335d92a1fef3aacdc6550d81c9d4354abb83c88ac74ccf"
 metafile = true
@@ -322,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "7e275666c62b1be5a8c8173b67352a96969d04dfe0f93aa8807f33e2f1808b2e"
+metafile = true
+
+[[files]]
+file = "mods/vignette-tweaks.pw.toml"
+hash = "b3f74f99168736b3c63f86b97ee3536316cea577d45c878e31e5d57baa181a4f"
 metafile = true
 
 [[files]]
