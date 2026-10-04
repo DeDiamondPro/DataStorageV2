@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "overrides": {
+        "pylon": {
+            "+breaks": {
+                "legacy-lwjgl3": "*",
+                "lenis": "*"
+            }
+        }
+    }
+}

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "fabric_loader_dependencies.json"
+hash = "02ee4e7bc6f9c8b5975a986f1523da3524ddf5b57c717d0a876d20ac1746bf82"
+
+[[files]]
 file = "mods/argentum-extras.pw.toml"
 hash = "07a2b74b25b26c6789ee34ffcc097a9470e74048b90954186fb9cef8b9683652"
 metafile = true

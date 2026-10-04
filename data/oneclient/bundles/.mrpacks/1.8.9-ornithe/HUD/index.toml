@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "fabric_loader_dependencies.json"
+hash = "02ee4e7bc6f9c8b5975a986f1523da3524ddf5b57c717d0a876d20ac1746bf82"
+
+[[files]]
 file = "mods/compose-multiplatform.pw.toml"
 hash = "cbc6139bdb3d06ec126258b046364b8b92f12f032077d9be70cd9c59b26744f9"
 metafile = true
