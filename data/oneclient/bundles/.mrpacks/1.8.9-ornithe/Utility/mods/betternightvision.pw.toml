@@ -13,6 +13,11 @@ authors = ["Microcontrollers"]
 icon = "https://cdn.modrinth.com/data/CaQ3SZNi/9c1c8a46235aae5ca352a2ec9d945e762dfbb9bc_96.webp"
 
 [download]
-url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/betternightvision-1.0.5/betternightvision-1.0.5%2B1.8.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/CaQ3SZNi/versions/o6Zw4Wkl/betternightvision-1.0.5%2B1.8.9-fabric.jar"
 hash-format = "sha512"
-hash = "12c02ae3ec068e9aed40345c1327882aa619720e5240af8d3d210b928c3636674d1ff81093bd6c38e14e4bf93af929a6a3d928235d3406ab25a3f9d242d97dd9"
+hash = "d220d91588e23d47e25c26140d0ae884755d3496ea3cfec32e9c561af67b081715dab45a98d15cb2d126565d06c8ad76aae9b42b62c0945b9315c20dce1cad29"
+
+[update]
+[update.modrinth]
+mod-id = "CaQ3SZNi"
+version = "o6Zw4Wkl"

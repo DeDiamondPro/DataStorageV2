@@ -13,6 +13,11 @@ authors = ["Microcontrollers"]
 icon = "https://cdn.modrinth.com/data/HeyHGg62/60a4b88605f1b36c9cdd195c107b64c97a88e719.png"
 
 [download]
-url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/numerical-enchantments-1.0.2/numericalenchantments-1.0.2%2B1.8.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/HeyHGg62/versions/RsOSfP2Y/numericalenchantments-1.0.2%2B1.8.9-fabric.jar"
 hash-format = "sha512"
-hash = "330122e36766850835e4a9e5917b18f848f1cc797af687f3d13dfe7bbddfa74d805a7ca66822d545b41db41a8fd651c38298e9e86dc021b919ef4fb82b99cab5"
+hash = "999b8a86a54a6e7efc20cb8b631347633288e1c2f7dc5803035b6a2243b12b00cae1be417596f1f8dee0587204ed2caa78ece7a8531a17d174a50f0ed20cd39c"
+
+[update]
+[update.modrinth]
+mod-id = "HeyHGg62"
+version = "RsOSfP2Y"

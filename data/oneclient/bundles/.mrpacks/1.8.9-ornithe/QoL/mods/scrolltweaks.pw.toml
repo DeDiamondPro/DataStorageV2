@@ -13,6 +13,11 @@ authors = ["Microcontrollers"]
 icon = "https://cdn.modrinth.com/data/8MEn1Qsz/2f09ac8558458d122825a20edc33dcdc9d60abd0_96.webp"
 
 [download]
-url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/scrolltweaks-1.0.7/scrolltweaks-1.0.7%2B1.8.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/8MEn1Qsz/versions/oLNeNkt9/scrolltweaks-1.0.7%2B1.8.9-fabric.jar"
 hash-format = "sha512"
-hash = "ed54c21109ef6095477414955d2f515b78cd84d2e0dd1a2a4f135b436df97d9a9a8a0ccf8e1915b73883e428c61911d71a832445494c129d8a54823bbd1f5cd2"
+hash = "7344f5995654d3e9ad9c21936b33f8e04fc5d8913176876d058f460b76e4ae8e6a45c29535d802ec1a89f6d904f116f7e0b80213e2832b1785b693be22eac836"
+
+[update]
+[update.modrinth]
+mod-id = "8MEn1Qsz"
+version = "oLNeNkt9"

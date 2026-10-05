@@ -46,17 +46,17 @@ metafile = true
 
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
-hash = "5622e6b3b00e0f8ffa13253c3e2e53ec590c7189a3e6fbc821b34cc890595113"
+hash = "29c1397f26efc78d458b50f959376ee017e3962fb29ea2a1fdbae6fe43450257"
 metafile = true
 
 [[files]]
 file = "mods/confirmresetkeys.pw.toml"
-hash = "80ebdb7c59d45c6f540b1d449fb9d264f14bdccfc200090536eeaa71759c1e35"
+hash = "b36e8a172c56200a12b6592eacbe16621e70c288da5be54346a1ba3526f125fe"
 metafile = true
 
 [[files]]
 file = "mods/crosshairtweaks.pw.toml"
-hash = "6125b27584bf515c65bf34fc32c7c3f57534587bfd047ed2d2645f43cf417202"
+hash = "c88463c97285c655fe458491c00ab9d334e07513b8bbb4bd7bd603559695aee7"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/droppeditemtweaks.pw.toml"
-hash = "8ffe44d6e0e69270a1ffeb25bb3372dd7e4fba31d5066f01e9af814c1f8b4aa0"
+hash = "7e1295cafcdb921f8e6c8cf2501c027e9f45d50d6e2b60e7007f130850ec1b48"
 metafile = true
 
 [[files]]
@@ -77,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/fovchanger.pw.toml"
 hash = "18b32e10941232ec30d0470d8f43dc5009b6b68202d4edc9e79dc687e6cc9136"
+metafile = true
+
+[[files]]
+file = "mods/freelook-oneconfig.pw.toml"
+hash = "6acc0d90afb6e895786d95d2202a6e5a4e71921bd62e58bb38a2a37a89d932a2"
 metafile = true
 
 [[files]]
@@ -106,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/mountopacity.pw.toml"
-hash = "863b237cb217ce5bcfa3215550c348e64f313efc397f207af7fdec5c7573fdd4"
+hash = "2114e83021df2ba5ba9662d62d544bb116361fbe5a805af30c468012231460c2"
 metafile = true
 
 [[files]]
 file = "mods/numerical-enchantments.pw.toml"
-hash = "682e33aef8fad6d03cb680e621c1fef34ede9f012f1d73fdb4df343e0c63ef76"
+hash = "d95275dfd4eda53106d1d82e1acc5c13d86d4928686e7a119ac7bed8b3ca27d2"
 metafile = true
 
 [[files]]
@@ -136,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/overlaytweaks.pw.toml"
-hash = "a259dbae5a5785962cc00bcd1b016497aae9c298fb057c50a14b13253f04746f"
+hash = "db23645c3a12427c4bd7671e7a0eaf10a3e02417a89b302cbd9b5954414fa563"
 metafile = true
 
 [[files]]
@@ -181,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/rendertweaks.pw.toml"
-hash = "e1245fc76f6b5043d4ac98ad2fa94f4c720963cc77a50e3d662c29322a6e47cf"
+hash = "f74a0016285a99bcc7e734044a2e79f8823cf9d812ca4dd7aa9daf6e0b622f9c"
 metafile = true
 
 [[files]]
@@ -191,12 +196,12 @@ metafile = true
 
 [[files]]
 file = "mods/scrolltweaks.pw.toml"
-hash = "97ca30ca1e47d3b4ad019abd079c42f78b859688ed6e25ca295de5c1cdb938a1"
+hash = "06fd52c795c7d0c3f5901e3414778f6a9602e83e666a7034e0b70168e653b429"
 metafile = true
 
 [[files]]
 file = "mods/shaketweaks.pw.toml"
-hash = "ac23c65db95b743fd8e0cc416359d69b65e053b06986d131fbc21163aecdf27e"
+hash = "a50b7a4d23c4aa38830e25cd1b564053eda6cd77b34805b6d7421c6b7bd3c60b"
 metafile = true
 
 [[files]]
@@ -206,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-skies.pw.toml"
-hash = "0fee8cc4d58aada7512738a62dddc594f39a466cf30946c81d6fdce331cd0f5c"
+hash = "de7067b8616b3f690e4332eef311692a9091369a83463b7d7b1fa59deac20164"
 metafile = true
 
 [[files]]

@@ -13,6 +13,11 @@ authors = ["Microcontrollers"]
 icon = "https://cdn.modrinth.com/data/y0E9vcbS/761d98b80cbf22b1e4eebdb651344d19b28d0059_96.webp"
 
 [download]
-url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/confirmresetkeys-1.0.1/confirmresetkeys-1.0.1%2B1.8.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/y0E9vcbS/versions/aKh1E787/confirmresetkeys-1.0.1%2B1.8.9-fabric.jar"
 hash-format = "sha512"
-hash = "ec37fa6e85702a6ea5befecb1618348c17323eca3dc9f6a3082008d6688cde1c2520a08ddb0504789c89eb3100f7b8529e78f1c84daccee1163ea8250f6c5b11"
+hash = "bc0e9e871ca0d16f6305efc46398b102f96c5a1ccd967d4f0c92c13e84c4581049ac9082e1ebc2230e1c032f161acabeea204a76899876d0ac879099cb0e52b9"
+
+[update]
+[update.modrinth]
+mod-id = "y0E9vcbS"
+version = "aKh1E787"

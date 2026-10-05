@@ -1,0 +1,17 @@
+id = "S1v2ASLQ"
+enabled = true
+hidden = false
+name = "Freelook"
+filename = "freelook-2.1.1+mc1.8.9.jar"
+side = "client"
+type = "normal"
+
+[download]
+url = "https://cdn.modrinth.com/data/S1v2ASLQ/versions/F9fh8zEu/freelook-2.1.1%2Bmc1.8.9.jar"
+hash-format = "sha512"
+hash = "a28507b41f383a6034e7a7e3251a4ff2292887fd5aa0424c02c57948219612ea24a766c18f77dab85b1090ac011596322bdf417126873fe81094e2babc3c3c4e"
+
+[update]
+[update.modrinth]
+mod-id = "S1v2ASLQ"
+version = "F9fh8zEu"

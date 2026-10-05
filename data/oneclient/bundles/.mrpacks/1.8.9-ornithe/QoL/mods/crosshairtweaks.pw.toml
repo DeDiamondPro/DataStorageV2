@@ -13,6 +13,11 @@ authors = ["Microcontrollers"]
 icon = "https://cdn.modrinth.com/data/uv6GyJOZ/c569408e837ae21d278f19608f5b2d07c7679ef2_96.webp"
 
 [download]
-url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/crosshairtweaks-1.5.4/crosshairtweaks-1.5.4%2B1.8.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/uv6GyJOZ/versions/dHYGkXGc/crosshairtweaks-1.5.4%2B1.8.9-fabric.jar"
 hash-format = "sha512"
-hash = "a007b68c45c69a987b5efc78677828c668718950570f1b424ac5d6e5c6543606393c0ffcaa6911a051e4cf31447db17ed0de1dc9585c94cc23fc4749f5cd7c05"
+hash = "356fbf59ad5a18017cf738d13ec65fd861d057b5b788837414958f5a8b335d1d94853688b2298dbd959a214dc6fd9c2a5916d196b62e2de904e2687eb2aef305"
+
+[update]
+[update.modrinth]
+mod-id = "uv6GyJOZ"
+version = "dHYGkXGc"

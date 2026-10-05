@@ -13,6 +13,11 @@ authors = ["Microcontrollers"]
 icon = "https://cdn.modrinth.com/data/qyu2y7wG/fff605f9be44ef263f074e88606c260f80159f4c_96.webp"
 
 [download]
-url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/confirm-disconnect-1.1.9/confirmdisconnect-1.1.9%2B1.8.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/qyu2y7wG/versions/FcHLLU4p/confirmdisconnect-1.1.9%2B1.8.9-fabric.jar"
 hash-format = "sha512"
-hash = "0b4f7aac3c64236ee813a6e9bea51580b5eec07d4e73d241a712fb395a90f5c7329027991cd3d7d5ea944e5c3aa1630fa9cc739cd82fff4861e4d4446885a02a"
+hash = "29a1cf72ff2fd412a89d264477e8ed44257ceab58dc25981f4593dada7bb28db9a33944c3d6d835d110d30410655da87a0da714f6206efcae322f105d5cdbb14"
+
+[update]
+[update.modrinth]
+mod-id = "qyu2y7wG"
+version = "FcHLLU4p"

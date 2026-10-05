@@ -13,6 +13,11 @@ authors = ["Microcontrollers"]
 icon = "https://cdn.modrinth.com/data/plzVz20Z/eb805bf9cd46ebf3a7c860120e50c923240a3530.png"
 
 [download]
-url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/shaketweaks-1.2.3/shaketweaks-1.2.3%2B1.8.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/plzVz20Z/versions/8FWaMoL7/shaketweaks-1.2.3%2B1.8.9-fabric.jar"
 hash-format = "sha512"
-hash = "14ee6e09d911f42de0f8168934ad51a7e73401fb4b83cd3822117adc4e14aedadb94c120f533704c5afe4306ac5542617d0eff423c58ad39c4e7a907f9849b80"
+hash = "c5da892f1d0c5ffaf59e9a5029e9822ba439a5aecda4036484ce9894ce88ca1433232bf4f1e7b5d7731fc7c3c49bf76705e1e7d3b4970112aca4cff6a87eb85c"
+
+[update]
+[update.modrinth]
+mod-id = "plzVz20Z"
+version = "8FWaMoL7"

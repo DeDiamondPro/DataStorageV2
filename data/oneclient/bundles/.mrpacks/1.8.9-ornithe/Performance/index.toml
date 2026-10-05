@@ -15,6 +15,11 @@ hash = "d9c7799753c8a5d79d9376882fab00780d5bc1ccb5b53f27c50925f9832eb068"
 metafile = true
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "279d9196b5c975f5ba467fcbeaa8fec4e3525abf2ea6d75ee4c8a87e499f3f2a"
+metafile = true
+
+[[files]]
 file = "mods/cera.pw.toml"
 hash = "21048f2b09c7f94a06ce5a411ca7026caa0f9e74b7e84d7ba02d5dc189856db4"
 metafile = true
@@ -61,5 +66,5 @@ metafile = true
 
 [[files]]
 file = "mods/sciophobia.pw.toml"
-hash = "9abe1c2cab29ed147248e1853e7f10d1e57c628fb254b0b352efb2c42a3c2643"
+hash = "a23310d23fc4dd6bc171c46d7d86431ed73104e96ddbcb0fdf82aed130764a1b"
 metafile = true

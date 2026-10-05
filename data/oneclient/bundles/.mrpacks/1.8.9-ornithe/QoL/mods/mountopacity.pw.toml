@@ -13,6 +13,11 @@ authors = ["Microcontrollers"]
 icon = "https://cdn.modrinth.com/data/ranjG9Zq/eeece904b3a6bf203bd95f2ce8f699092c52d4d9_96.webp"
 
 [download]
-url = "https://github.com/Wyvest/ornithe-remap-fixes/releases/download/mountopacity-1.2.3/mountopacity-1.2.3%2B1.8.9-fabric.jar"
+url = "https://cdn.modrinth.com/data/ranjG9Zq/versions/9QJdEoYc/mountopacity-1.2.3%2B1.8.9-fabric.jar"
 hash-format = "sha512"
-hash = "1a239ab0446e0ca75af256663d40f0a899aed29b03fc752f1eabf70a08b13fb42ef05711487aadd2f959d6af47e4fae47ffbf090882ae508d5318797f9e00352"
+hash = "265abade54893b8f7f3fe9dc65badabeb8423abc1a96c531f7e985db413ae7f8e6878e716daaf93dfabe960b39af3c6f6142755959d8b85becdc20e84d32f459"
+
+[update]
+[update.modrinth]
+mod-id = "ranjG9Zq"
+version = "9QJdEoYc"
