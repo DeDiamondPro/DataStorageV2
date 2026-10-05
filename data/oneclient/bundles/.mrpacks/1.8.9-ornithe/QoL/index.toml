@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/freelook-oneconfig.pw.toml"
-hash = "6acc0d90afb6e895786d95d2202a6e5a4e71921bd62e58bb38a2a37a89d932a2"
+hash = "3256b53db844cbf3a37816770a03c934ec1e8944da149b710dff98f0741522e2"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/polynametag.pw.toml"
-hash = "c25b26e5a5725c6296102e3f8f436b9b7c8db757686c80d2624be54c5023e659"
+hash = "4fb482e59fcca01fae3fee2c1327f449425f41b76015411fc5f7f6f2cc41d1f2"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/tntcountdown.pw.toml"
-hash = "77edf8c9853fd5a6416c8e35272b124f7348b76873a6e08fb563bab4fc4d7f76"
+hash = "c7f287d398d98846a093fa721202fa2782c9a2ff14ca02e858d6de339a59a0bd"
 metafile = true
 
 [[files]]

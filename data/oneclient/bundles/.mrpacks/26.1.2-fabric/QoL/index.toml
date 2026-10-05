@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/freelook-oneconfig.pw.toml"
-hash = "a8a2de3b59f315c218fb309b215d8545292882feda1a4ad6ba141a66630e539e"
+hash = "461c3639a233d1a5d59f82fd4424856e4169c59a1faf5664044411271165923d"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/polynametag.pw.toml"
-hash = "e9f6a50d65f533c77df9f6ec5ae52536519475b7810ab0dc380d2bb2e6269378"
+hash = "353ad0b7761cfefe82c14f5bc390b5a80332c70922a7b19ffd673ad3995e1567"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/wwaypoints.pw.toml"
-hash = "c93341a4000734a9ea308fed9bd67c7ad7e77b0292c08eac84e59d39076da8cd"
+hash = "a18e9719524bfef9cf2700014da79ece7ad0aee6eb8d847fb530fab104c3d171"
 metafile = true
 
 [[files]]
