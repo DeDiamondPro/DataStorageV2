@@ -129,6 +129,38 @@
                     }
                 }
             ]
+        },
+        {
+            "project-ids": {
+                "modrinth": "DnNYdJsx",
+                "curseforge": "892086"
+            },
+            "name": "Chat Animation [Smooth Chat]",
+            "author": "Ezzenix",
+            "explanation": "/oneclient/bad_mods_mds/chatanimation.md",
+            "alternatives": [
+                {
+                    "project-ids": {
+                        "modrinth": "8pJYUDNi"
+                    }
+                }
+            ]
+        },
+        {
+            "project-ids": {
+                "modrinth": "MS1ZMyR7",
+                "curseforge": "406343"
+            },
+            "name": "Better Ping Display [Fabric]",
+            "author": "vladmarica",
+            "explanation": "/oneclient/bad_mods_mds/better-ping-display.md",
+            "alternatives": [
+                {
+                    "project-ids": {
+                        "modrinth": "pWXJaKrX"
+                    }
+                }
+            ]
         }
     ]
 }
