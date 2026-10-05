@@ -2,16 +2,16 @@ id = "8Pq6Exn2"
 enabled = true
 hidden = false
 name = "Packed Packs"
-filename = "packed_packs-fabric-2.3.0+26.2.jar"
+filename = "packed_packs-fabric-2.3.1+26.2.jar"
 side = "client"
 type = "advanced"
 
 [download]
-url = "https://cdn.modrinth.com/data/8Pq6Exn2/versions/D1N22D0L/packed_packs-fabric-2.3.0%2B26.2.jar"
+url = "https://cdn.modrinth.com/data/8Pq6Exn2/versions/5Py338U8/packed_packs-fabric-2.3.1%2B26.2.jar"
 hash-format = "sha512"
-hash = "438fbbdc3c575607d5c0ef5b2b740d7ad73a730f42cf5969c5cc2d6af80ecf16ee7344d9c6ed16d410d9492f617faee4f7d9bc3acf1fbdbf813446f4d6b2d26a"
+hash = "90d011f750e8ee1b25e898d65875681b183a0c496ce5fa365bc35ab66d5f8d4e339bee401a2aa35cfbc2dc791b194eca848338f39cfd1c5f48e09decc0c2321d"
 
 [update]
 [update.modrinth]
 mod-id = "8Pq6Exn2"
-version = "D1N22D0L"
+version = "5Py338U8"
