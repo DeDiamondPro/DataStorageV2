@@ -1,5 +1,5 @@
 id = "O-ItemPhysicLite"
-enabled = false
+enabled = true
 hidden = false
 name = "O-ItemPhysicLite"
 filename = "O-ItemPhysicLite-1.1.0.jar"

@@ -30,6 +30,11 @@ hash = "e2c4b47bc69a1ed4a316f786be0eff593a5463cab05510803b75a6cd21d3e990"
 metafile = true
 
 [[files]]
+file = "mods/chattweaks.pw.toml"
+hash = "32a64865e4da8df62cb235d36fec6b42d821cf5a3cf6e66f121c7df18f81c89b"
+metafile = true
+
+[[files]]
 file = "mods/colorsaturation.pw.toml"
 hash = "79ff1510cc247a88fe0f38981e446f479d00808a457ccf1b1a5fa99bc484934b"
 metafile = true
@@ -111,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/o-itemphysiclite.pw.toml"
-hash = "fc782d36e5768a02f05938ea2cc756d8ba290cec665cf9d4f15db69827034ff1"
+hash = "ff14f369e146d96fd7d2d5bc77ad6aea37cc9f6fa4c9fcb3737ea24e63b6a205"
 metafile = true
 
 [[files]]
