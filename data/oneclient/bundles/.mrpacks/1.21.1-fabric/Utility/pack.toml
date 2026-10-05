@@ -11,7 +11,7 @@ update-url = "oneclient/generated/utility-1.21.1-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0338ae1ec12e65909ec7008a2489b08435e9641bf70d80ce5b36a5fa7a349fc8"
+hash = "07daf17568718058ec03f4cbc94e7dd0733d0160307eed3f20336e2cdc5ae387"
 
 [versions]
 fabric = "0.19.5"

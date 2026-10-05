@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/fovchanger.pw.toml"
-hash = "c468c63e037d06ade0efad4094d1149f4162ae3cac75a3c1b5568a2924fbe2dc"
+hash = "8d2a511431f35aaf5ee1ef145bfbd6b814f2f8dafbafc6c424e3fb2dc3300c25"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "a9d4fabb77ad74d30a5438fd9625b8050c73b6091f429a233b25086bd355da6e"
+hash = "15fcf6ab3a99014aa5b6f9cbd771c38bf42bb55ec6bb624072c4dd7e0593d3d1"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyblur.pw.toml"
-hash = "acc12ce020e56ca57c729060abd5d9ca34b18ec9526b1b29114bcabdcaad3fe1"
+hash = "a5151fa46f010d37045db94a6516a7fd0f2a61f5a89937060682048ab39a9652"
 metafile = true
 
 [[files]]

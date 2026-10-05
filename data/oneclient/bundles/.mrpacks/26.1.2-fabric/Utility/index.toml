@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/animations.pw.toml"
-hash = "78bce855604ffae1d82bda85729189f995c8a963ec7fc451aa8ed0746fdb8b08"
+hash = "407dea837ae4ce5b469cd7a73254bd171896caf707dba1f069105d5880f1035d"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "fc6c9d653baceaad616735b8207420ebfa868c87de47d7bc37ad46fd73acd841"
+hash = "e4d600ecfe193b086c0e35852310b4a88550e251217afa8cf262d35e21bb6fa9"
 metafile = true
 
 [[files]]
