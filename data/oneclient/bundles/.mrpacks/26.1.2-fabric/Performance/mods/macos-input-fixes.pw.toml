@@ -4,6 +4,7 @@ hidden = false
 name = "MacOS Input Fixes"
 filename = "macos-input-fixes-1.15.jar"
 side = "client"
+pin = true
 type = "advanced"
 
 [download]
