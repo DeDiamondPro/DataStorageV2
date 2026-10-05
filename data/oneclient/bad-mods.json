@@ -161,6 +161,14 @@
                     }
                 }
             ]
+        },
+        {
+            "project-ids": {
+                "modrinth": "lpiIRiAZ"
+            },
+            "name": "legacy-lwjgl3",
+            "author": "moehreag",
+            "explanation": "/oneclient/bad_mods_mds/legacy-lwjgl3.md"
         }
     ]
 }

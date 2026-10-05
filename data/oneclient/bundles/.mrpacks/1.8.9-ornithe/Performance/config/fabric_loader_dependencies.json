@@ -3,7 +3,6 @@
     "overrides": {
         "pylon": {
             "+breaks": {
-                "legacy-lwjgl3": "*",
                 "lenis": "*"
             }
         }
