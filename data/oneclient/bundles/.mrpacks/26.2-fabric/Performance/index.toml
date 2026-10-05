@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "2b21920ebb44e371c2e56e5ea88c93feb2ca4013833dc9a8af7550939a0c4f22"
+hash = "3df517b1dab2861845e0ce98055c3404dcd7c9b1b6e6d9ce86156baa9378f1a4"
 metafile = true
 
 [[files]]

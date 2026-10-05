@@ -101,6 +101,11 @@ hash = "58191ac1ed7678da6edaa18e61f5f54f350a1360e654be7d3e0dbe3d8451a4c1"
 metafile = true
 
 [[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "55e627eef2da6762a2de15d3fd99ff1e21c63ae6d9830cf63bcef64eec29b57c"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "47aae01124eb921ab1a42d075211b77ef56e58a1c4abab558e38fb24b63692be"
 metafile = true
