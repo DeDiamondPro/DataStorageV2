@@ -70,6 +70,11 @@ hash = "b813ff51df485bee41ef82ee75fb54e59fd65603023daed46df34cb3bd4943dd"
 metafile = true
 
 [[files]]
+file = "mods/fovchanger.pw.toml"
+hash = "18b32e10941232ec30d0470d8f43dc5009b6b68202d4edc9e79dc687e6cc9136"
+metafile = true
+
+[[files]]
 file = "mods/glintcolorizer.pw.toml"
 hash = "615adb9e56e8928edb511eace119f68a81d39f456725df8a3dc569d44c0abac0"
 metafile = true
@@ -205,6 +210,21 @@ hash = "1dd20b3ba218979fdb5d480462f32b5db9266ee05899246769e437bc6bb4290a"
 metafile = true
 
 [[files]]
+file = "mods/tntcountdown.pw.toml"
+hash = "77edf8c9853fd5a6416c8e35272b124f7348b76873a6e08fb563bab4fc4d7f76"
+metafile = true
+
+[[files]]
 file = "mods/tooltip-scroll.pw.toml"
 hash = "aeb7ff8af65848b0517713df05472fc99db3ab371d8a0dff098b30e8e038603f"
+metafile = true
+
+[[files]]
+file = "mods/vignette-tweaks.pw.toml"
+hash = "c24db7e999d1fc0cd718aeed19bba347510e5cb380cd4fead5b2fc68a4074a2e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/newdefault.pw.toml"
+hash = "68c6171a0131b0a52d39b08480e8bf8aca0a44f28cd2c27262f04f7e387866f3"
 metafile = true

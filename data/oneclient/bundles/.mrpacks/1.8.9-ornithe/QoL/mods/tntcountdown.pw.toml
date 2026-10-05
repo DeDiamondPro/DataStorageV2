@@ -1,0 +1,17 @@
+id = "pQFm0mAJ"
+enabled = true
+hidden = false
+name = "TNT Countdown"
+filename = "countdown-2.1.1+mc1.8.9.jar"
+side = "client"
+type = "normal"
+
+[download]
+url = "https://cdn.modrinth.com/data/pQFm0mAJ/versions/D240HY4r/countdown-2.1.1%2Bmc1.8.9.jar"
+hash-format = "sha512"
+hash = "ce5b381c40ad273741d05c4cda90372ffc4905a3fbadad8565498556cad8afc7a8e87fe673525c34bd08e399ad477246719075763411e0a55e05285d5deefded"
+
+[update]
+[update.modrinth]
+mod-id = "pQFm0mAJ"
+version = "D240HY4r"

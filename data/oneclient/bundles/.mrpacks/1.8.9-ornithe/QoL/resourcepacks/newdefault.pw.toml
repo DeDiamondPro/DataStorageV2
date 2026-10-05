@@ -1,0 +1,25 @@
+id = "NewDefault"
+enabled = true
+hidden = false
+name = "NewDefault"
+filename = "NewDefault+mc1.8.9.zip"
+side = "client"
+type = "normal"
+
+[overrides]
+name = "NewDefault"
+description = "The eventual look of Minecraft."
+authors = ["awruff"]
+icon = "https://raw.githubusercontent.com/awruff/NewDefault/main/pack.png"
+
+[download]
+url = "https://github.com/awruff/NewDefault/releases/download/build.1%2Bmc1.8.9/NewDefault%2Bmc1.8.9.zip"
+hash-format = "sha256"
+hash = "2968d84d31eb9dd12bfc085413132b3d30d6df114c9820dbe752b916381b3c35"
+
+[update]
+[update.github]
+branch = "main"
+regex = "mc1\\.8\\.9\\.zip$"
+slug = "awruff/NewDefault"
+tag = "build.1+mc1.8.9"

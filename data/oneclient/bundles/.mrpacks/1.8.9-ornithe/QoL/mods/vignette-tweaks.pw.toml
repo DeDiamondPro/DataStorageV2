@@ -1,0 +1,17 @@
+id = "SIRG6coC"
+enabled = false
+hidden = false
+name = "Vignette Tweaks"
+filename = "vignettetweaks-2.0.2+1.8.9.jar"
+side = "client"
+type = "normal"
+
+[download]
+url = "https://cdn.modrinth.com/data/SIRG6coC/versions/yeOGEzN2/vignettetweaks-2.0.2%2B1.8.9.jar"
+hash-format = "sha512"
+hash = "e2f79ec6a3796e4345624d84434731e2c0b5f069bfe05ecda77006bec51b6534de6737da042393389e74bff595dbab5d7c640bef69bba8db0d49fb1d73eef36b"
+
+[update]
+[update.modrinth]
+mod-id = "SIRG6coC"
+version = "yeOGEzN2"
