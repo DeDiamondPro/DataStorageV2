@@ -2,16 +2,16 @@ id = "aMcWnMHI"
 enabled = true
 hidden = false
 name = "Chat Block"
-filename = "ChatBlock-1.6.0-26.1+_fabric.jar"
+filename = "ChatBlock-1.7.0-26.1+_fabric.jar"
 side = "client"
 type = "normal"
 
 [download]
-url = "https://cdn.modrinth.com/data/aMcWnMHI/versions/8hwizAFD/ChatBlock-1.6.0-26.1%2B_fabric.jar"
+url = "https://cdn.modrinth.com/data/aMcWnMHI/versions/PAZy8ZGZ/ChatBlock-1.7.0-26.1%2B_fabric.jar"
 hash-format = "sha512"
-hash = "3a1c55066ed88ba4f7f9de2b40bc6013add9798f9e1db28c7b75cea08c20b2e07e4d7afdcf3a8e6b7956927c5f87b4c9e5723f8d4cea882be1cf3c4afdab64db"
+hash = "91129dc8ee2a5c5f636690d4dc7452cde81348df3f169ca3f221a271934d3379dc69a098dbe8581b0a55a9770e3f3bc2c0bf75bb4978fb6ce745626511c9e008"
 
 [update]
 [update.modrinth]
 mod-id = "aMcWnMHI"
-version = "8hwizAFD"
+version = "PAZy8ZGZ"
