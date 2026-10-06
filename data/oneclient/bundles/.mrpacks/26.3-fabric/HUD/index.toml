@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e17d876aece8b916f92f5c3b67828340822ae890c3bae50401924754fb6f0f61"
+hash = "8ece6e824617c1a8eee3c5cf962f45c9c0addff9e2088255bbe76ee0cbcd1fd5"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "604c83f0a146688b1e17864231b72f4a35bf69078761ba3c19b6d78b652be55f"
+hash = "658f3eb966783ef86195e40f5d67f6052d767b086d93528e19870a1844bf9a27"
 metafile = true
 
 [[files]]
