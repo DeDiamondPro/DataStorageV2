@@ -7,11 +7,11 @@ side = "client"
 type = "normal"
 
 [download]
-url = "https://cdn.modrinth.com/data/eiWiefXD/versions/UfU7LVhm/SkyBlock%20Legacy.zip"
+url = "https://cdn.modrinth.com/data/eiWiefXD/versions/us6LPOI9/SkyBlock%20Legacy.zip"
 hash-format = "sha512"
-hash = "e209e06c0257a4f7c6fbad6f08b996ed7b0d0bbba591e9c74ccc22bd37a8352f43524318b317acdf6745384f82f69e70c0ce7548bddf872e0d8039b8fa38d496"
+hash = "13386c837920a1fb624144fbc29a3fe130b9175bb575000307e52cdbafd24c615b52c11f800c06530a46d8cca60b1c3dad6a01110775dc43a7eee3ea4600f63f"
 
 [update]
 [update.modrinth]
 mod-id = "eiWiefXD"
-version = "UfU7LVhm"
+version = "us6LPOI9"
