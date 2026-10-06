@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/freelook-oneconfig.pw.toml"
-hash = "27b6a6dbcf56575f54785995e990390e073eda7b07e2bc46efea75867bc76c18"
+hash = "89d3f4d635cf9161d00502cd8eb39237921cc2f437498c7c54a12b2552371bb5"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyplus.pw.toml"
-hash = "75f7e9d7e48ec7323777718b21638489e715a55d676ef032cb7ae7318c4603b5"
+hash = "2e7b24f55ff81d8e545a4900630440628048216b1cc2dc0be9228dbbcb33a43c"
 metafile = true
 
 [[files]]
