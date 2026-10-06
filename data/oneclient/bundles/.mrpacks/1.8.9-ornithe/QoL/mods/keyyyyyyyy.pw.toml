@@ -1,0 +1,17 @@
+id = "KMtOZMrU"
+enabled = true
+hidden = false
+name = "Keyyyyyyyy"
+filename = "Keyyyyyyyy-3.0.1+fabric.jar"
+side = "client"
+type = "advanced"
+
+[download]
+url = "https://cdn.modrinth.com/data/KMtOZMrU/versions/tKelEDQC/Keyyyyyyyy-3.0.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "3d8dc6d68bcf987dcfd63b760dde6e8d7cfb298ca38414ed8690985cfb9a49c4e2d21c1acff601760c7badccd4e9b1bcea079ba0ab1d873c091ba1bc45dd15df"
+
+[update]
+[update.modrinth]
+mod-id = "KMtOZMrU"
+version = "tKelEDQC"
