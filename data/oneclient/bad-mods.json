@@ -169,6 +169,38 @@
             "name": "legacy-lwjgl3",
             "author": "moehreag",
             "explanation": "/oneclient/bad_mods_mds/legacy-lwjgl3.md"
+        },
+        {
+            "project-ids": {
+                "modrinth": "FCvC00y3"
+            },
+            "name": "Legacy OptiFabric",
+            "author": "tildejustin",
+            "explanation": "/oneclient/bad_mods_mds/optifabric.md"
+        },
+        {
+            "project-ids": {
+                "curseforge": "400308"
+            },
+            "name": "OptiLegacy",
+            "author": "hydo_s",
+            "explanation": "/oneclient/bad_mods_mds/optifabric.md"
+        },
+        {
+            "project-ids": {
+                "modrinth": "cHtd43CF"
+            },
+            "name": "Raw Mouse Input",
+            "author": "awruff",
+            "explanation": "/oneclient/bad_mods_mds/raw-input.md"
+        },
+        {
+            "project-ids": {
+                "curseforge": "388707"
+            },
+            "name": "Raw Input",
+            "author": "zkqri0",
+            "explanation": "/oneclient/bad_mods_mds/raw-input.md"
         }
     ]
 }
